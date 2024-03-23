@@ -6,7 +6,7 @@ Arxiv: https://arxiv.org/abs/2312.02196
 
 ## Environment Setup
 
-We tested our code with `Python 3.8.15`, `Pytorch 1.10.2` with `cuda11.1`, other dependencies are specified in `requirements.txt`.
+We tested our code on Windows with `Python 3.8.15`, `Pytorch 1.10.2` with `cuda11.1`, other dependencies are specified in `requirements.txt`.
 
 ```python
 conda create -n dynaip python==3.8
