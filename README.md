@@ -1,8 +1,35 @@
-# Dynamic Inertial Poser (DynaIP): Part-Based Motion Dynamics Learning for Enhanced Human Pose Estimation with Sparse Inertial Sensors
+<div align="center">
+
+<h1>Dynamic Inertial Poser (DynaIP): Part-Based Motion Dynamics Learning for Enhanced Human Pose Estimation with Sparse Inertial Sensors</h1>
+
+<div>
+    <a target='_blank'>Yu Zhang<sup>†</sup></a>&emsp;
+    <a href='https://xspc.github.io/' target='_blank'>Songpengcheng Xia<sup>†</sup></a>&emsp;
+    <a href='https://scholar.google.com.hk/citations?user=HgZ0wNwAAAAJ&hl=zh-CN&oi=ao' target='_blank'>Lei Chu<sup>*</sup></a>&emsp;
+    <a target='_blank'>Jiarui Yang<sup></sup></a>&emsp;
+    <a href='https://sjtu-robotics.com/zh/' target='_blank'>Qi Wu</a>&emsp;
+    <a href='https://scholar.google.com.hk/citations?user=Vm7d2EkAAAAJ&hl=zh-CN&oi=ao' target='_blank'>Ling Pei<sup>*</sup></a>&emsp;
+</div>
+<div>
+    Shanghai Jiao Tong University
+</div>
+
+<div>
+    <sup>†</sup>Equal contribution &emsp; <sup>*</sup>Corresponding author
+</div>
+
+<div>
+    :star_struck: <strong>Accepted to CVPR 2024</strong>
+</div>
+
+<h4 align="center">
+  <a href="[https://arxiv.org/abs/2308.08855](https://arxiv.org/abs/2312.02196)" target='_blank'>[arXiv]</a>
+</h4>
+
+</div>
 
 This is the pytorch implementation of our paper DynaIP at CVPR 2024.
 
-Arxiv: https://arxiv.org/abs/2312.02196
 
 ## Environment Setup
 
