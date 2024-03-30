@@ -23,7 +23,8 @@
 </div>
 
 <h4 align="center">
-  <a href="[https://arxiv.org/abs/2308.08855](https://arxiv.org/abs/2312.02196)" target='_blank'>[arXiv]</a>
+  <a href="" target='_blank'>[Demo]</a> •
+  <a href="https://arxiv.org/abs/2312.02196" target='_blank'>[arXiv]</a>
 </h4>
 
 </div>
